@@ -16,5 +16,17 @@ This repository it's for the HCI class of the Software Engineering degree at the
 ### [![Photo-3.png](https://i.postimg.cc/2ywgnxcy/Photo-3.png)](https://postimg.cc/zHydrT1Y)
 
 
+## Delivery dates 🗓
+
+| Delivery |         Deadline         |
+| ------- | :--------------------------: |
+| 🟣  Preview | friday-**17/Feb/2023** |
+| 🟣  First | friday-**31/mar/2023** |
+| 🟣  Second |    friday-**28/abr/2023**    |
+| 🟣  FINAL |   friday-**19/may/2023**   |
+
+
+
+
 
 
