@@ -6,7 +6,7 @@ This repository it's for the HCI class of the Software Engineering degree at the
 - 💟  Geovanna Fernanda De la Cruz Medina
 - ✨ [![Photo-1.png](https://i.postimg.cc/MTZTy9tf/Photo-1.png)](https://postimg.cc/zLM8NSsq)
 
-- 💟  Andera Natalí Ortega Aguilar. 
+- 💟  Andrea Natalí Ortega Aguilar 
 - ✨ [![Photo.png](https://i.postimg.cc/28WzBpmX/Photo.png)](https://postimg.cc/4mJCrSYz)
 
 - 💟  Alma Angélica Ordóñez Sanchez
