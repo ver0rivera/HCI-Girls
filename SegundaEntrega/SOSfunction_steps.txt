@@ -1,0 +1,16 @@
+operator	label	line_number	resource	thread	operator_time	step_start_time	step_end_time
+initiate	la aplicacion	0	cognitive	base	50	0	50
+look	el boton SOS	1	see	base	550	50	600
+touch	el boton SOS	2	hands	base	490	600	1090
+attend	al cambio de pantalla	3	cognitive	base	50	1090	1140
+read	la informacion de presionar 3 segundos si presenta emergencia	4	see	base	2340	1140	3480
+verify	que su voluntad es tocar el boton y no fue un accidente	5	cognitive	base	1250	3480	4730
+look	al boton SOS	6	see	base	550	4730	5280
+touch	por .5 segundos	7	hands	base	490	5280	5770
+touch	por .5 segundos	8	hands	base	490	5770	6260
+touch	por .5 segundos	9	hands	base	490	6260	6750
+touch	por .5 segundos	10	hands	base	490	6750	7240
+touch	por .5 segundos	11	hands	base	490	7240	7730
+touch	por .5 segundos	12	hands	base	490	7730	8220
+attend	al cambio de pantalla	13	cognitive	base	50	8220	8270
+read	la informacion presentada	14	see	base	780	8270	9050
